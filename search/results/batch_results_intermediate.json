@@ -1,0 +1,26 @@
+[
+  {
+    "status": "failed",
+    "dataset": "data\\subset_10k.csv",
+    "runtime": 0.09093570709228516,
+    "returncode": 2,
+    "stdout": "",
+    "stderr": "C:\\Users\\akash\\AppData\\Local\\Microsoft\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\python.exe: can't open file 'C:\\\\Users\\\\akash\\\\OneDrive\\\\Desktop\\\\Codes\\\\BBlean\\\\bitbirch\\\\enhanced_benchmark.py': [Errno 2] No such file or directory\n"
+  },
+  {
+    "status": "failed",
+    "dataset": "data\\subset_100k.csv",
+    "runtime": 0.07753992080688477,
+    "returncode": 2,
+    "stdout": "",
+    "stderr": "C:\\Users\\akash\\AppData\\Local\\Microsoft\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\python.exe: can't open file 'C:\\\\Users\\\\akash\\\\OneDrive\\\\Desktop\\\\Codes\\\\BBlean\\\\bitbirch\\\\enhanced_benchmark.py': [Errno 2] No such file or directory\n"
+  },
+  {
+    "status": "failed",
+    "dataset": "data\\subset_1M.csv",
+    "runtime": 0.07780909538269043,
+    "returncode": 2,
+    "stdout": "",
+    "stderr": "C:\\Users\\akash\\AppData\\Local\\Microsoft\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\python.exe: can't open file 'C:\\\\Users\\\\akash\\\\OneDrive\\\\Desktop\\\\Codes\\\\BBlean\\\\bitbirch\\\\enhanced_benchmark.py': [Errno 2] No such file or directory\n"
+  }
+]

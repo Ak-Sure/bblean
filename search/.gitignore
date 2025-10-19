@@ -1,0 +1,15 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore binary data files but keep results and plots
+results/data/*.pickle
+results/data/*.npy
+
+# Keep other files in results
+!results/data/*.json
+!results/plots/
+
+*.pickle
+**/smiles.json

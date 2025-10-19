@@ -1,0 +1,27 @@
+{
+  "timestamp": "2025-10-06T14:50:32.234698",
+  "total_benchmarks": 3,
+  "successful_benchmarks": 0,
+  "failed_benchmarks": 3,
+  "total_runtime": 0.24628472328186035,
+  "benchmark_details": [
+    {
+      "dataset": "subset_10k",
+      "status": "failed",
+      "runtime": 0.09093570709228516,
+      "error_info": "C:\\Users\\akash\\AppData\\Local\\Microsoft\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\python.exe: can't open file 'C:\\\\Users\\\\akash\\\\OneDrive\\\\Desktop\\\\Codes\\\\BBlean\\\\bitbirch\\\\enhanced_benchmark.py': [Errno 2] No such file or directory\n"
+    },
+    {
+      "dataset": "subset_100k",
+      "status": "failed",
+      "runtime": 0.07753992080688477,
+      "error_info": "C:\\Users\\akash\\AppData\\Local\\Microsoft\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\python.exe: can't open file 'C:\\\\Users\\\\akash\\\\OneDrive\\\\Desktop\\\\Codes\\\\BBlean\\\\bitbirch\\\\enhanced_benchmark.py': [Errno 2] No such file or directory\n"
+    },
+    {
+      "dataset": "subset_1M",
+      "status": "failed",
+      "runtime": 0.07780909538269043,
+      "error_info": "C:\\Users\\akash\\AppData\\Local\\Microsoft\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\python.exe: can't open file 'C:\\\\Users\\\\akash\\\\OneDrive\\\\Desktop\\\\Codes\\\\BBlean\\\\bitbirch\\\\enhanced_benchmark.py': [Errno 2] No such file or directory\n"
+    }
+  ]
+}
